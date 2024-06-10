@@ -6,21 +6,6 @@
     "auditLog": "G:\\Apollo PH Level-2\\university-management-core-service-starter\\logs\\winston\\errors\\.b657904669445db4e9cb2912d9d2d656762f909c-audit.json",
     "files": [
         {
-            "date": 1716733722541,
-            "name": "G:\\Apollo PH Level-2\\university-management-core-service-starter\\logs\\winston\\errors\\phu-2024-26-05-20-error.log",
-            "hash": "f95c7164285527391a00ca25212cf8ec81ad514e951e849693886889da91bfab"
-        },
-        {
-            "date": 1716738101265,
-            "name": "G:\\Apollo PH Level-2\\university-management-core-service-starter\\logs\\winston\\errors\\phu-2024-26-05-21-error.log",
-            "hash": "3ea3fcfd71c60f945ddbc0e4c4ea777ace66947dd2fff699c14522025aad98f9"
-        },
-        {
-            "date": 1716739203006,
-            "name": "G:\\Apollo PH Level-2\\university-management-core-service-starter\\logs\\winston\\errors\\phu-2024-26-05-22-error.log",
-            "hash": "33a40cdfedbbc12080e712442b6890eb8be1d935e7dadf0b0fb305d78fa99bf8"
-        },
-        {
             "date": 1717071251674,
             "name": "G:\\Apollo PH Level-2\\university-management-core-service-starter\\logs\\winston\\errors\\phu-2024-30-05-18-error.log",
             "hash": "587dba16ae23c7cd5030b708bebe42897fbf29b95e2320338e3f8185967f2b72"
@@ -74,6 +59,16 @@
             "date": 1717756768421,
             "name": "G:\\Apollo PH Level-2\\university-management-core-service-starter\\logs\\winston\\errors\\phu-2024-07-06-16-error.log",
             "hash": "a7bf57cfacf23e43c597ad81ccc3a4800e124c56f4c62ef9959be8e04b454dd8"
+        },
+        {
+            "date": 1717943797119,
+            "name": "G:\\Apollo PH Level-2\\university-management-core-service-starter\\logs\\winston\\errors\\phu-2024-09-06-20-error.log",
+            "hash": "378d73f885d150a2615da16b089d48adad1e33e28b68afebf9c74dd32b548250"
+        },
+        {
+            "date": 1717952405387,
+            "name": "G:\\Apollo PH Level-2\\university-management-core-service-starter\\logs\\winston\\errors\\phu-2024-09-06-23-error.log",
+            "hash": "923ad3b76d440063cfd21f6e67cd929baee7821cc5beca5a064d99b93df6530a"
         }
     ],
     "hashType": "sha256"
