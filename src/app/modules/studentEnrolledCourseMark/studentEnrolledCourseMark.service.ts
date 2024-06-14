@@ -1,7 +1,7 @@
 import { ExamType, PrismaClient } from '@prisma/client';
 import {
-  DefaultArgs,
-  PrismaClientOptions,
+    DefaultArgs,
+    PrismaClientOptions,
 } from '@prisma/client/runtime/library';
 import httpStatus from 'http-status';
 import ApiError from '../../../errors/ApiError';
